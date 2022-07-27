@@ -1,0 +1,19 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Memory Models
+  url: "/memory-models/"
+  side: left
+
+- title: Static Translation
+  url: "/lasagne/"
+  side: left
+
+- title: Dynamic Translation
+  url: "/risotto/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
