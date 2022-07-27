@@ -85,7 +85,7 @@ We built *two* binary translators to address this program, in different ways. *L
 <div class="large-6 columns" markdown="0">
     
     <div style="text-align:center;">
-        <a href="/security/">
+        <a href="/risotto/">
             <img class="t0" width="60%" src="/images/icon_risotto.webp" alt="Dynamic Binary Translation with Risotto">
             <h4 style="text-align:center; margin: 0 0 1em 0;">Risotto<br/>(Dynamic)</h4>
         </a>
