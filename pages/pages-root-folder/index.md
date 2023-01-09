@@ -47,7 +47,7 @@ homepage: true
 
 While *x86* previously dominated the CPU market, we see *Arm* emerge prominently in many domains; For instance, on <a href="https://aws.amazon.com/ec2/graviton/" target="_blank">servers</a> and <a href="https://en.wikipedia.org/wiki/Apple_M1" target="_blank">laptops</a>. These architectures have different instruction sets and features, which makes it difficult to port existing x86 programs to Arm CPUs. In particular, these architectures have different *memory models*, which means that x86 and Arm reorder instructions differently during execution. That results in different behavior for the same concurrent programs.
 
-We built *two* binary translators to address this program, in different ways. *Lasagne* translates any x86 program *statically* to an Arm program. *Risotto* emulates the x86 program *dynamically* on an Arm machine. For either case, we provide *mechanized proofs* that demonstrate the correctness of the translation w.r.t. the memory models of x86 and Arm.
+We built *two* binary translators to address this problem, in different ways. *Lasagne* translates any x86 program *statically* to an Arm program. *Risotto* emulates the x86 program *dynamically* on an Arm machine. For either case, we provide *mechanized proofs* that demonstrate the correctness of the translation w.r.t. the memory models of x86 and Arm.
 
 </div>
 </div>
