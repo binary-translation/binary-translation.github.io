@@ -2,10 +2,6 @@
   url: "/"
   side: left
 
-- title: Memory Models
-  url: "/memory-models/"
-  side: left
-
 - title: Static Translation
   url: "/lasagne/"
   side: left
