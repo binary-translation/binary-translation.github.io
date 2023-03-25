@@ -37,5 +37,3 @@ permalink: "/risotto/"
 <div class="row">
 <div class="medium-12 columns" markdown="1">
 ----
-
-Here we describe Risotto
